@@ -1,7 +1,7 @@
 # Hello world 👋, I'm Sebastian
 
 <p align="center">
-<img src="Banner.png" width="750px" height="330px">
+<img src="Banner.png" width="650px" height="300px">
 </p>
 
 <p align="left">
