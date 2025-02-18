@@ -28,7 +28,7 @@ const SebastianZhunaula = {
         youtube: "https://www.youtube.com/@devsebastian44",
         blog: "https://bl4ck44.github.io/"
     },
-    hobbies: ["Coding", "Hacking", "Gaming", "Learning new technologies"],
+    hobbies: ["Coding", "Hacking", "Gaming", "Learning new technologies", "Graphic Design"],
     
     sayHello: function() {
         console.log("Hola! Soy Sebastian, un apasionado por la programación y la ciberseguridad. 🚀");
