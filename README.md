@@ -25,7 +25,7 @@ const SebastianZhunaula = {
     social: {
         portfolio: "https://devsebastian44.github.io/",
         github: "https://github.com/devsebastian44",
-        youtube: "https://www.youtube.com/@CyberDevZone",
+        youtube: "https://www.youtube.com/@devsebastian44",
         blog: "https://bl4ck44.github.io/"
     },
     hobbies: ["Coding", "Hacking", "Gaming", "Learning new technologies"],
