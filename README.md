@@ -17,26 +17,6 @@
 
 Soy un **Desarrollador Full-Stack** con experiencia en **programación**, **ciberseguridad** y **diseño gráfico**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
 
-```Javascript
-const SebastianZhunaula = {
-    name: "Sebastian Zhunaula",
-    age: 19,
-    region: "Ecuador",
-    social: {
-        portfolio: "https://devsebastian44.github.io/",
-        github: "https://github.com/devsebastian44",
-        youtube: "https://www.youtube.com/@devsebastian44",
-        blog: "https://bl4ck44.github.io/"
-    },
-    hobbies: ["Coding", "Hacking", "Gaming", "Learning new technologies", "Graphic Design"],
-    
-    sayHello: function() {
-        console.log("Hola! Soy Sebastian, un apasionado por la programación y la ciberseguridad. 🚀");
-    }
-};
-
-SebastianZhunaula.sayHello();
-```
 
 # 🛠️ Languages and Tools:
 
