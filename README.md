@@ -12,41 +12,54 @@
 <a href="https://www.linkedin.com/in/devsebastian44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>
 
+---
 
 # Sobre mi
 
-Soy un **Desarrollador Full-Stack** con experiencia en **programación**, **ciberseguridad** y **diseño gráfico**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
+Soy un **Desarrollador de software** con experiencia en **programación**, **ciberseguridad**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
+
+🚀 Enfoque actual
+
+    💼 Estudiando en Oracle Next Education
+    🌱 Aprendiendo Ciencia de Datos ⚡
+    🔭 Explorando los fundamentos de la IA y las redes neuronales
+
+
+---
 
 
 # 🛠️ Languages and Tools:
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
-  <img src="https://cdn.simpleicons.org/astro/FF5301" height="30" alt="astro logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=html"  alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css"  alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind"  alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=laravel"  alt="laravel logo" />
+    <img src="https://skillicons.dev/icons?i=jquery"  alt="jquery logo" />
+  <img src="https://skillicons.dev/icons?i=angular"  alt="angularjs logo" />
+    <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs logo" />
+   <img src="https://skillicons.dev/icons?i=react"  alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=typescript"  alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=php"  alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=python"  alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=postgresql"  alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=cs"  alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind"  alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=astro"  alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=docker"  alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
+  <img src="https://skillicons.dev/icons?i=git"  alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github"  alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=jenkins"  alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=bash"  alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=figma"  alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=obsidian"  alt="obsidian logo" />
 </div>
 
 
