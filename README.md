@@ -21,7 +21,7 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
 🚀 Enfoque actual
 
     💼 Estudiando en Oracle Next Education
-    🌱 Aprendiendo Ciencia de Datos ⚡
+    🌱 Aprendiendo Ciencia de Datos
     🔭 Explorando los fundamentos de la IA y las redes neuronales
 
 
