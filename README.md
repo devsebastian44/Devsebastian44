@@ -47,10 +47,12 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
   <img src="https://skillicons.dev/icons?i=python"  alt="python logo" />
   <img src="https://skillicons.dev/icons?i=postgresql"  alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=redis"  alt="redis logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb"  alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=cs"  alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind"  alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin"  alt="kotlin logo" />
   <img src="https://skillicons.dev/icons?i=astro"  alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=elixir"  alt="elixir logo"  />
   <img src="https://skillicons.dev/icons?i=docker"  alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
