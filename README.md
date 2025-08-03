@@ -81,8 +81,8 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
 # ⚡ Stats 
 
 <div>
-<img width=421 src="https://github-readme-streak-stats.herokuapp.com/?user=Devsebastian44&theme=dark&hide_border=false" alt="Devsebastian44's Streak"/>
-<img width=397 src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark" alt="Devsebastian44's Streak"/>
+<img width=424 src="https://github-readme-streak-stats.herokuapp.com/?user=Devsebastian44&theme=dark&hide_border=false" alt="Devsebastian44's Streak"/>
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark" alt="Devsebastian44's Streak"/>
 </div>
 
 
