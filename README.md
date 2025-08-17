@@ -19,11 +19,17 @@
 
 Soy un **Desarrollador de software** con experiencia en **programación**, **ciberseguridad**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
 
+
 🚀 Enfoque actual
 
     💼 Estudiando en Oracle Next Education
     🌱 Aprendiendo Ciencia de Datos
     🔭 Explorando los fundamentos de la IA y las redes neuronales
+    🛡️ Profundizando en Ciberseguridad y Hacking Ético  
+    🔐 Prácticas de Pentesting & Análisis de Vulnerabilidades  
+    🕵️ Investigación de Malware y Seguridad en Aplicaciones Web  
+
+    
 
 <div align="center">
   
