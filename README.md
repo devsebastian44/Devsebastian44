@@ -33,7 +33,8 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B80E&width=435&lines=The+code+is+temporary+but+the+impact+is+permanent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=0AA400&width=500&lines=The+code+is+temporary+but+the+impact+is+permanent)](https://git.io/typing-svg)
+
 </div>
 
 
