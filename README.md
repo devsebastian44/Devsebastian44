@@ -104,15 +104,6 @@ const sebastian = {
   <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" />
 </div>
 
-<div align="center">
-
-  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=0AA400&width=500&lines=The+code+is+temporary+but+the+impact+is+permanent)](https://git.io/typing-svg)
-
-
-
-</div>
 
 
 ---
@@ -163,9 +154,3 @@ Breve descripción del proyecto y su impacto.
 - 💼 **LinkedIn:** [devsebastian44](https://www.linkedin.com/in/devsebastian44/)
 - 📺 **YouTube:** [@devsebastian44](https://www.youtube.com/@devsebastian44)
 - 🐦 **Twitter:** [@devsebastian44](https://x.com/devsebastian44)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devsebastian44&color=0AA400&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
