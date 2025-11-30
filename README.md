@@ -83,9 +83,9 @@ Soy un **Desarrollador de Software** con experiencia en **programación** y **ci
   <img src="https://skillicons.dev/icons?i=obsidian"  alt="obsidian logo" />
 </div>
 
----
 
 
+<!--
 # ⚡ Stats
 
 <div>
@@ -93,6 +93,9 @@ Soy un **Desarrollador de Software** con experiencia en **programación** y **ci
 <img width=409 src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark" alt="Devsebastian44's Streak"/>
 </div>
 
+# Projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
