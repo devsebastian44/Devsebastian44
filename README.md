@@ -46,63 +46,38 @@ const sebastian = {
 ---
 
 ## 🛠️ Tech Stack
-
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" />
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" />
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=react" alt="react" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="angular" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=astro" alt="astro" />
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" />
-</div>
-
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=php" alt="php" />
-  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
-  <img src="https://skillicons.dev/icons?i=python" alt="python" />
-  <img src="https://skillicons.dev/icons?i=go" alt="go" />
-  <img src="https://skillicons.dev/icons?i=elixir" alt="elixir" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" />
-</div>
-
-### Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis" />
-</div>
-
-### DevOps & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
-  <img src="https://skillicons.dev/icons?i=git" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="github" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" />
-</div>
-
-### Cybersecurity
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />
-</div>
-
-### Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
-  <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" />
-</div>
-
+<img src="https://skillicons.dev/icons?i=html" alt="html5" />
+<img src="https://skillicons.dev/icons?i=css" alt="css3" />
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
+<img src="https://skillicons.dev/icons?i=react" alt="react" />
+<img src="https://skillicons.dev/icons?i=angular" alt="angular" />
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
+<img src="https://skillicons.dev/icons?i=astro" alt="astro" />
+<img src="https://skillicons.dev/icons?i=jquery" alt="jquery" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+<img src="https://skillicons.dev/icons?i=php" alt="php" />
+<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
+<img src="https://skillicons.dev/icons?i=python" alt="python" />
+<img src="https://skillicons.dev/icons?i=go" alt="go" />
+<img src="https://skillicons.dev/icons?i=elixir" alt="elixir" />
+<img src="https://skillicons.dev/icons?i=cs" alt="csharp" />
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" />
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" />
+<img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
+<img src="https://skillicons.dev/icons?i=git" alt="git" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" />
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" />
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" />
+<img src="https://skillicons.dev/icons?i=kali" alt="kali" />
+<img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" />
+<img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" />
 
 
 ---
