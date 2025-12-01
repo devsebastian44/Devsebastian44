@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/devsebastian44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://discord.com/users/1171260800908922950" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://www.instagram.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -152,5 +151,3 @@ Breve descripción del proyecto y su impacto.
 
 - 🌐 **Portfolio:** [devsebastian44.vercel.app](https://devsebastian44.vercel.app/)
 - 💼 **LinkedIn:** [devsebastian44](https://www.linkedin.com/in/devsebastian44/)
-- 📺 **YouTube:** [@devsebastian44](https://www.youtube.com/@devsebastian44)
-- 🐦 **Twitter:** [@devsebastian44](https://x.com/devsebastian44)
