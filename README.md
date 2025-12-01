@@ -39,6 +39,7 @@ const sebastian = {
     currentFocus: "Data Science & AI",
     learning: ["Neural Networks", "Ethical Hacking", "Machine Learning"],
     portfolio: "https://devsebastian44.vercel.app/"
+    blog: "https://devsebastian44-blog.netlify.app/"
 };
 ```
 
