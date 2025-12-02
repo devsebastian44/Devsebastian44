@@ -34,7 +34,8 @@ const sebastian = {
         backend: ["Node.js", "Laravel", "Express"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
         devOps: ["Docker", "AWS", "Jenkins", "Linux"],
-        security: ["Pentesting", "Malware Analysis", "Web Security"]
+        security: ["Pentesting", "Malware Analysis", "Web Security"],
+        dataScience: ["Pandas", "Matplotlib", "Seaborn"]
     },
     currentFocus: "Data Science & AI",
     learning: ["Neural Networks", "Ethical Hacking", "Machine Learning"],
