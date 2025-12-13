@@ -69,7 +69,7 @@ const sebastian = {
 ---
 
 
-## 📊 GitHub Stats
+## 🚀 Proyectos Destacados
 
 
 [![Ciberseguridad](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Ciberseguridad&theme=dark)](https://github.com/Devsebastian44/Ciberseguridad)
@@ -82,26 +82,8 @@ const sebastian = {
 [![Web-Scraping](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark)](https://github.com/Devsebastian44/Web-Scraping)
 
 
-
-<!--
-
-## 🎯 Proyectos Destacados
-
-### 🌟 [Nextcloud](link-al-repo)
-Breve descripción del proyecto y su impacto.
-- **Tech Stack:** React, Node.js, PostgreSQL
-
-### 🌟 [Nombre del Proyecto 2](link-al-repo)
-Breve descripción del proyecto y su impacto.
-- **Tech Stack:** Laravel, MySQL, Bootstrap
-
-### 🌟 [Nombre del Proyecto 3](link-al-repo)
-Breve descripción del proyecto y su impacto.
-- **Tech Stack:** Python, TensorFlow, Docker
-
 ---
 
--->
 
 ## 📫 Conectemos
 
