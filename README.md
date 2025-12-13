@@ -68,22 +68,46 @@ const sebastian = {
 
 ---
 
-<!--
 
-## 📊 GitHub Stats
+## 🚀 Proyectos Destacados
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0AA400&icon_color=0AA400" alt="Sebastian's Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devsebastian44&theme=dark&hide_border=true&background=0D1117&stroke=0AA400&ring=0AA400&fire=0AA400&currStreakLabel=0AA400" alt="Sebastian's Streak"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Devsebastian44/Ciberseguridad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Ciberseguridad&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Devsebastian44/Programacion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Programacion&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Devsebastian44/Nextcloud">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Nextcloud&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Devsebastian44/Keylogger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Devsebastian44/Sandboxed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Devsebastian44/Web-Scraping">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsebastian44&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0AA400" alt="Top Languages"/>
-</div>
-
----
-
--->
 
 
 <!--
