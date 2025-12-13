@@ -69,44 +69,17 @@ const sebastian = {
 ---
 
 
-## 🚀 Proyectos Destacados
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Devsebastian44/Ciberseguridad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Ciberseguridad&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Devsebastian44/Programacion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Programacion&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Devsebastian44/Nextcloud">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Nextcloud&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Devsebastian44/Keylogger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Devsebastian44/Sandboxed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Devsebastian44/Web-Scraping">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![Ciberseguridad](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Ciberseguridad&theme=dark)](https://github.com/Devsebastian44/Ciberseguridad)
+[![Programacion](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Programacion&theme=dark)](https://github.com/Devsebastian44/Programacion)
+
+[![Nextcloud](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Nextcloud&theme=dark)](https://github.com/Devsebastian44/Nextcloud)
+[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark)](https://github.com/Devsebastian44/Keylogger)
+
+[![Sandboxed](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark)](https://github.com/Devsebastian44/Sandboxed)
+[![Web-Scraping](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark)](https://github.com/Devsebastian44/Web-Scraping)
 
 
 
