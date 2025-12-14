@@ -73,7 +73,6 @@ const sebastian = {
 
 [![Nextcloud](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Nextcloud&theme=dark)](https://github.com/Devsebastian44/Nextcloud)
 [![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark)](https://github.com/Devsebastian44/Keylogger)
-
 [![Sandboxed](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark)](https://github.com/Devsebastian44/Sandboxed)
 [![Web-Scraping](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark)](https://github.com/Devsebastian44/Web-Scraping)
 
