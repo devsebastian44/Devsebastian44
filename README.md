@@ -71,10 +71,6 @@ const sebastian = {
 
 ## 🚀 Proyectos Destacados
 
-
-[![Ciberseguridad](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Ciberseguridad&theme=dark)](https://github.com/Devsebastian44/Ciberseguridad)
-[![Programacion](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Programacion&theme=dark)](https://github.com/Devsebastian44/Programacion)
-
 [![Nextcloud](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Nextcloud&theme=dark)](https://github.com/Devsebastian44/Nextcloud)
 [![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark)](https://github.com/Devsebastian44/Keylogger)
 
