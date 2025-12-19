@@ -5,24 +5,36 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@devsebastian44">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<p align="center">
+  <a href="https://www.youtube.com/@devsebastian44" title="YouTube">
+    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="32"/>
   </a>
-  <a href="https://discord.com/users/1171260800908922950">
-    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1171260800908922950" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="32"/>
   </a>
-  <a href="https://x.com/devsebastian44">
-    <img align="center" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/devsebastian44" title="X (Twitter)">
+    <img src="https://cdn.simpleicons.org/x/000000" height="32"/>
   </a>
-  <a href="https://www.tiktok.com/@devsebastian44">
-    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@devsebastian44" title="TikTok">
+    <img src="https://cdn.simpleicons.org/tiktok/000000" height="32"/>
   </a>
-  <a href="https://www.instagram.com/devsebastian44">
-    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/devsebastian44" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/>
   </a>
-  <a href="https://www.threads.net/@devsebastian44">
-    <img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.threads.net/@devsebastian44" title="Threads">
+    <img src="https://cdn.simpleicons.org/threads/000000" height="32"/>
   </a>
+  &nbsp;&nbsp;
+<a href="https://codepen.io/devsebastian44" title="CodePen">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codepen.svg" height="32"/>
+</a>
+</p>
+
 </p>
 
 
@@ -64,7 +76,7 @@ const sebastian = {
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,astro,bootstrap,tailwind,jquery,nodejs,php,laravel,python,go,elixir,cs,kotlin,postgresql,mysql,mongodb,redis,docker,aws,jenkins,git,github,linux,bash,kali,obsidian,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,astro,bootstrap,tailwind,jquery,nodejs,php,laravel,python,go,elixir,cs,kotlin,postgresql,mysql,mongodb,redis,docker,aws,jenkins,git,github,linux,bash,kali,codepen,obsidian,figma)](https://skillicons.dev)
 
 ---
 
