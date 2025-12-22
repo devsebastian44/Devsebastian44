@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <a style="margin-left: px;" target="_blank" href="https://www.youtube.com/@devsebastian44"><img alt="YouTube" title="YouTube" src="https://img.icons8.com/?size=100&id=szxM3fi4e37N&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@devsebastian44"><img alt="YouTube" title="YouTube" src="https://img.icons8.com/?size=100&id=szxM3fi4e37N&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1171260800908922950"><img alt="Discord" title="Discord" src="https://img.icons8.com/?size=100&id=zdrZ4QdvVaBZ&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://x.com/devsebastian44"><img alt="X (Twitter)" title="X (Twitter)" src="https://img.icons8.com/?size=100&id=tP47jGH2NoP3&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@devsebastian44"><img alt="TikTok" title="TikTok" src="https://img.icons8.com/?size=100&id=SpIfxZbiwM1P&format=png&color=000000" height="40"></a>
