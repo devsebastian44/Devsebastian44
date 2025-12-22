@@ -36,6 +36,35 @@
 </p>
 
 
+<a href="https://www.youtube.com/@devsebastian44" title="YouTube">
+  <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/1171260800908922950" title="Discord">
+  <img src="https://img.icons8.com/doodle/40/000000/discord-logo.png" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/devsebastian44" title="X (Twitter)">
+  <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@devsebastian44" title="TikTok">
+  <img src="https://img.icons8.com/doodle/40/000000/tiktok.png" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/devsebastian44" title="Instagram">
+  <img src="https://img.icons8.com/doodle/40/000000/instagram-new.png" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.threads.net/@devsebastian44" title="Threads">
+  <img src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000" height="40" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://codepen.io/devsebastian44" title="CodePen">
+  <img src="https://img.icons8.com/?size=100&id=3CTJEmSo0SgI&format=png&color=000000" height="40" style="vertical-align: middle;"/>
+</a>
+
+
 ---
 
 ## 🚀 About Me
