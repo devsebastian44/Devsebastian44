@@ -5,7 +5,7 @@
 </p>
 
 
-<div style="text-align: center;">
+<p style="text-align: center;">
   <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@devsebastian44"><img alt="YouTube" title="YouTube" src="https://img.icons8.com/?size=100&id=szxM3fi4e37N&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1171260800908922950"><img alt="Discord" title="Discord" src="https://img.icons8.com/?size=100&id=zdrZ4QdvVaBZ&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://x.com/devsebastian44"><img alt="X (Twitter)" title="X (Twitter)" src="https://img.icons8.com/?size=100&id=tP47jGH2NoP3&format=png&color=000000" height="40"></a>
@@ -13,7 +13,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/devsebastian44"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@devsebastian44"><img alt="Threads" title="Threads" src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000" height="40"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://codepen.io/Devsebastian44"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=SURoAzRamHLy&format=png&color=000000" height="40"></a>
-</div>
+</p>
 
 
 ---
