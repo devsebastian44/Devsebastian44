@@ -5,13 +5,15 @@
 </p>
 
 
-<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@devsebastian44"><img alt="YouTube" title="YouTube" src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1171260800908922950"><img alt="Discord" title="Discord" src="https://img.icons8.com/doodle/40/000000/discord-logo.png" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://x.com/devsebastian44"><img alt="X (Twitter)" title="X (Twitter)" src="https://img.icons8.com/doodle/40/000000/twitter--v2.png" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@devsebastian44"><img alt="TikTok" title="TikTok" src="https://img.icons8.com/doodle/40/000000/tiktok.png" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/devsebastian44"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/doodle/40/000000/instagram-new.png" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@devsebastian44"><img alt="Threads" title="Threads" src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000" height="40"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://codepen.io/devsebastian44"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=3CTJEmSo0SgI&format=png&color=000000" height="40"></a>
+<div style="text-align: center;">
+  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@devsebastian44"><img alt="YouTube" title="YouTube" src="https://img.icons8.com/?size=100&id=szxM3fi4e37N&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1171260800908922950"><img alt="Discord" title="Discord" src="https://img.icons8.com/?size=100&id=zdrZ4QdvVaBZ&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://x.com/devsebastian44"><img alt="X (Twitter)" title="X (Twitter)" src="https://img.icons8.com/?size=100&id=tP47jGH2NoP3&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@devsebastian44"><img alt="TikTok" title="TikTok" src="https://img.icons8.com/?size=100&id=SpIfxZbiwM1P&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/devsebastian44"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@devsebastian44"><img alt="Threads" title="Threads" src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000" height="40"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://codepen.io/Devsebastian44"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=SURoAzRamHLy&format=png&color=000000" height="40"></a>
+</div>
 
 
 ---
