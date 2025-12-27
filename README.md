@@ -13,7 +13,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@devsebastian44"><img alt="TikTok" title="TikTok" src="https://img.icons8.com/?size=100&id=SpIfxZbiwM1P&format=png&color=000000" height="45"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/devsebastian44"><img alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" height="45"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.threads.net/@devsebastian44"><img alt="Threads" title="Threads" src="https://img.icons8.com/?size=100&id=1IYrDBzxNHjL&format=png&color=000000" height="45"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://codepen.io/Devsebastian44"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" height="45"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://astro.build/themes/author/2728"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=lckHFUP7nJhG&format=png&color=000000" height="45"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://codepen.io/Devsebastian44"><img alt="CodePen" title="CodePen" src="https://img.icons8.com/?size=100&id=SURoAzRamHLy&format=png&color=000000" height="45"></a>
 </div>
 
