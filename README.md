@@ -38,7 +38,6 @@ const sebastian = {
     currentFocus: "Data Science & AI",
     learning: ["Neural Networks", "Ethical Hacking", "Machine Learning"],
     portfolio: "https://devsebastian44.vercel.app/",
-    blog: "https://codematrix44.vercel.app/",
 };
 ```
 
@@ -77,6 +76,5 @@ const sebastian = {
 Interested in collaborating or have a project in mind? Don't hesitate to contact me!
 
 - 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/">devsebastian44.vercel.app</a>
-- 📝 <strong>Blog:</strong> <a href="https://codematrix44.vercel.app">codematrix44.vercel.app</a>
 - 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/devsebastian44/">devsebastian44</a>
 
