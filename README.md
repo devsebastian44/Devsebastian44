@@ -73,61 +73,25 @@ const sebastian = {
 ## 🗺️ Expertise Map
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1a1b27','primaryTextColor':'#fff','primaryBorderColor':'#7C3AED','lineColor':'#7C3AED','secondaryColor':'#2d3748','tertiaryColor':'#1a202c'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#000','primaryBorderColor':'#C92A2A','lineColor':'#495057','secondaryColor':'#4ECDC4','tertiaryColor':'#FFE66D','fontSize':'16px','fontFamily':'Arial'}}}%%
 mindmap
-  root((🚀 Sebastian))
-    💻 Full Stack Development
-      🎨 Frontend Engineering
-        ⚛️ React & Next.js
-        🅰️ Angular & Astro
-        🎭 Tailwind CSS & Bootstrap
-      ⚙️ Backend Architecture
-        🟢 Node.js & Express
-        🔴 Laravel & PHP
-        📡 REST & GraphQL APIs
-      🗄️ Database Design
-        🐘 PostgreSQL & MySQL
-        🍃 MongoDB & Redis
-        ⚡ Supabase & Firebase
-    🔒 Cybersecurity
-      🛡️ Penetration Testing
-        🌐 Web App Security
-        🔍 Network Analysis
-        🐉 Kali Linux Tools
-      🔐 Security Research
-        🦠 Malware Analysis
-        ⚠️ Vulnerability Assessment
-        🎯 Ethical Hacking
-      🕵️ Security Tools
-        🔧 Burp Suite
-        📊 Wireshark
-        🔨 Metasploit
-    🧠 Data Science & AI
-      🤖 Machine Learning
-        🧬 Neural Networks
-        📈 Deep Learning
-        🎓 Model Training
-      📊 Data Analysis
-        🐼 Pandas & NumPy
-        📉 Matplotlib & Seaborn
-        📐 Statistical Analysis
-      🔮 AI Applications
-        💡 Predictive Models
-        🎯 Pattern Recognition
-        🔬 Research & Experimentation
-    ☁️ DevOps & Cloud
-      🐳 Containerization
-        📦 Docker Orchestration
-        🔄 Microservices
-        ⚡ Container Security
-      ☁️ Cloud Platforms
-        🚀 AWS Services
-        🔄 CI/CD Pipelines
-        🔧 Jenkins & GitLab CI
-      🛠️ Infrastructure
-        🐧 Linux Administration
-        📜 Bash Scripting
-        🔐 Server Security
+  root((Sebastian<br/>Developer))
+    Full Stack Development
+      Frontend
+      Backend
+      Databases
+    Cybersecurity
+      Pentesting
+      Malware Analysis
+      Web Security
+    Data Science & AI
+      Machine Learning
+      Data Analysis
+      Neural Networks
+    DevOps & Cloud
+      Docker
+      AWS
+      CI/CD
 ```
 
 
