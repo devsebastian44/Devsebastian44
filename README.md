@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Sebastian
 
 <p align="center">
-<img src="Banner.png">
+<img src="./Img/Banner.png">
 </p>
 
 
@@ -72,57 +72,9 @@ const sebastian = {
 
 ## 🗺️ Expertise Map
 
-```mermaid
-mindmap
-  root((fa:fa-globe Areas))
-    Full Stack
-      ::icon(fa fa-code)
-      Frontend
-        ::icon(fa fa-desktop)
-      Backend
-        ::icon(fa fa-server)
-      Databases
-        ::icon(fa fa-database)
-    Cybersecurity
-      ::icon(fa fa-shield-halved)
-      Pentesting
-        ::icon(fa fa-user-secret)
-      Malware Analysis
-        ::icon(fa fa-bug)
-      Web Security
-        ::icon(fa fa-lock)
-    Data Science AI
-      ::icon(fa fa-brain)
-      Machine Learning
-        ::icon(fa fa-robot)
-      Data Analysis
-        ::icon(fa fa-chart-line)
-      Neural Networks
-        ::icon(fa fa-network-wired)
-    DevOps Cloud
-      ::icon(fa fa-cloud)
-      Docker
-        ::icon(fa fa-box)
-      AWS
-        ::icon(fa fa-aws)
-      CI CD
-        ::icon(fa fa-infinity)
-  %%{init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#fff4dd',
-      'primaryTextColor': '#2d3436',
-      'primaryBorderColor': '#2d3436',
-      'lineColor': '#636e72',
-      'secondaryColor': '#e1f5fe',
-      'tertiaryColor': '#f3e5f5',
-      'quaternaryColor': '#e8f5e9',
-      'fontSize': '15px',
-      'fontFamily': 'Comic Sans MS, cursive'
-    }
-  }}%%
-```
-
+<p align="center">
+<img src="./Img/Diagrama.png">
+</p>
 
 ---
 
