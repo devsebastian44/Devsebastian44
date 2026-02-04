@@ -73,25 +73,25 @@ const sebastian = {
 ## 🗺️ Expertise Map
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'12px','fontFamily':'Aldrich, sans-serif'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'14px','fontFamily':'Arial'}}}%%
 mindmap
-  root((Tech<br/>Stack))
-    Full Stack Development 
-      Frontend 
-      Backend 
-      Databases 
-    Cybersecurity 
-      Pentesting 
-      Malware Analysis 
-      Web Security 
-    Data Science & AI 
-      Machine Learning 
-      Data Analysis 
-      Neural Networks 
-    DevOps & Cloud 
-      Docker 
-      AWS 
-      CI/CD 
+  root((Tech Stack))
+    Full Stack
+      Frontend
+      Backend
+      Databases
+    Cybersecurity
+      Pentesting
+      Malware Analysis
+      Web Security
+    Data Science AI
+      Machine Learning
+      Data Analysis
+      Neural Networks
+    DevOps Cloud
+      Docker
+      AWS
+      CI CD
 ```
 
 
