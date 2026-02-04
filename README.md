@@ -75,7 +75,7 @@ const sebastian = {
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'14px','fontFamily':'Arial'}}}%%
 mindmap
-  root((Tech Stack))
+  root((Areas))
     Full Stack
       Frontend
       Backend
