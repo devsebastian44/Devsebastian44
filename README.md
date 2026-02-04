@@ -48,18 +48,12 @@ const sebastian = {
 
 ## 🎯 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💻 Programming & Development
 - 🌱 Building scalable web applications
 - 🚀 Exploring modern frameworks & tools
 - 🎨 Creating beautiful user interfaces
 - ⚡ Optimizing performance & architecture
 
-</td>
-<td width="50%">
 
 ### 🔒 Cybersecurity
 - 🛡️ Ethical Hacking & Pentesting
@@ -67,10 +61,6 @@ const sebastian = {
 - 🕵️ Malware Research
 - 🔐 Web Application Security
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
 
 ### 🧠 Data Science & AI
 - 📊 Learning Data Analysis & Visualization
@@ -78,9 +68,53 @@ const sebastian = {
 - 🧬 Studying Neural Networks & Deep Learning
 - 📈 Working with Pandas, Matplotlib, and Seaborn
 
-</td>
-</tr>
-</table>
+---
+
+## 🗺️ Expertise Map
+
+```mermaid
+mindmap
+  root((Sebastian))
+    Full Stack Development
+      Frontend Engineering
+        React & Next.js
+        Angular & Astro
+        Tailwind CSS
+      Backend Architecture
+        Node.js & Express
+        Laravel & PHP
+        REST APIs
+      Database Design
+        PostgreSQL & MySQL
+        MongoDB & Redis
+        Supabase
+    Cybersecurity
+      Penetration Testing
+        Web App Security
+        Network Analysis
+        Kali Linux
+      Security Research
+        Malware Analysis
+        Vulnerability Assessment
+        Ethical Hacking
+    Data Science & AI
+      Machine Learning
+        Neural Networks
+        Deep Learning
+        Model Training
+      Data Analysis
+        Pandas & NumPy
+        Matplotlib & Seaborn
+        Statistical Analysis
+    DevOps & Cloud
+      Containerization
+        Docker
+        Microservices
+      Cloud Platforms
+        AWS Services
+        CI/CD Pipelines
+        Jenkins
+```
 
 
 ---
