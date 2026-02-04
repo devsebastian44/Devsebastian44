@@ -73,7 +73,7 @@ const sebastian = {
 ## 🗺️ Expertise Map
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'16px','fontFamily':'Arial, sans-serif'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'15px','fontFamily':'Aldrich, sans-serif'}}}%%
 mindmap
   root((Tech<br/>Stack))
     Full Stack Development
