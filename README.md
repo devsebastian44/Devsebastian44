@@ -78,23 +78,35 @@ mindmap
     Full Stack
       ::icon(fa fa-code)
       Frontend
+        ::icon(fa fa-desktop)
       Backend
+        ::icon(fa fa-server)
       Databases
+        ::icon(fa fa-database)
     Cybersecurity
       ::icon(fa fa-shield-halved)
       Pentesting
+        ::icon(fa fa-user-secret)
       Malware Analysis
+        ::icon(fa fa-bug)
       Web Security
+        ::icon(fa fa-lock)
     Data Science AI
       ::icon(fa fa-brain)
       Machine Learning
+        ::icon(fa fa-robot)
       Data Analysis
+        ::icon(fa fa-chart-line)
       Neural Networks
+        ::icon(fa fa-network-wired)
     DevOps Cloud
       ::icon(fa fa-cloud)
       Docker
+        ::icon(fa fa-box)
       AWS
+        ::icon(fa fa-aws)
       CI CD
+        ::icon(fa fa-infinity)
   %%{init: {
     'theme': 'base',
     'themeVariables': {
@@ -105,7 +117,7 @@ mindmap
       'secondaryColor': '#e1f5fe',
       'tertiaryColor': '#f3e5f5',
       'quaternaryColor': '#e8f5e9',
-      'fontSize': '13px',
+      'fontSize': '15px',
       'fontFamily': 'Comic Sans MS, cursive'
     }
   }}%%
