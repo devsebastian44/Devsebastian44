@@ -26,29 +26,62 @@ I am a **Full Stack Software Developer** specializing in creating scalable and s
 
 ```javascript
 const sebastian = {
-    code: ["JavaScript", "Python", "PHP", "TypeScript", "Go"],
+    role: "Full Stack Software Developer",
+    location: "Ecuador 🇪🇨",
+    education: "Oracle Next Education",
+    
+    code: ["JavaScript", "TypeScript", "Python", "PHP", "Go", "C#", "Kotlin", "Elixir"],
+    
     technologies: {
-        frontend: ["React", "Angular", "Tailwind", "Bootstrap"],
-        backend: ["Node.js", "Laravel", "Express"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "AWS", "Jenkins", "Linux"],
-        security: ["Pentesting", "Malware Analysis", "Web Security"],
-        dataScience: ["Pandas", "Matplotlib", "Seaborn"]
+        frontend: ["React", "Next.js", "Angular", "Astro", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express", "Laravel", "FastAPI"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase", "Firebase"],
+        devOps: ["Docker", "AWS", "Jenkins", "Git", "GitLab", "Linux"],
+        security: ["Pentesting", "Malware Analysis", "Web Security", "Kali Linux"],
+        dataScience: ["Pandas", "Matplotlib", "Seaborn", "Neural Networks"]
     },
-    currentFocus: "Data Science & AI",
-    learning: ["Neural Networks", "Ethical Hacking", "Machine Learning"],
-    portfolio: "https://devsebastian44.vercel.app/",
+    
+    currentFocus: ["Data Science & AI", "Cybersecurity", "Machine Learning"],
+    portfolio: "https://devsebastian44.vercel.app/"
 };
 ```
 
-### 🎯 Current Focus
+## 🎯 What I'm Up To
 
-- 💼 Student at **Oracle Next Education**
-- 🌱 Learning **Data Science** and **Artificial Intelligence**
-- 🔭 Exploring **Neural Networks** and **Machine Learning**
-- 🛡️ Delving into **Cybersecurity** and **Ethical Hacking**
-- 🔍 Practicing **Penetration Testing** & **Vulnerability Analysis**
-- 🕵️ Researching **Malware** and **Web Application Security**
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Programming & Development
+- 🌱 Building scalable web applications
+- 🚀 Exploring modern frameworks & tools
+- 🎨 Creating beautiful user interfaces
+- ⚡ Optimizing performance & architecture
+
+</td>
+<td width="50%">
+
+### 🔒 Cybersecurity
+- 🛡️ Ethical Hacking & Pentesting
+- 🔍 Vulnerability Analysis
+- 🕵️ Malware Research
+- 🔐 Web Application Security
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🧠 Data Science & AI
+- 📊 Learning Data Analysis & Visualization
+- 🤖 Exploring Machine Learning Algorithms
+- 🧬 Studying Neural Networks & Deep Learning
+- 📈 Working with Pandas, Matplotlib, and Seaborn
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -74,8 +107,7 @@ const sebastian = {
 
 ## 📫 Let's Connect
 
-Interested in collaborating or have a project in mind? Don't hesitate to contact me!
+Interested in collaborating or have a project in mind? Let's build something amazing together!
 
-- 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/">devsebastian44.vercel.app</a>
-- 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/devsebastian44/">devsebastian44</a>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devsebastian44.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsebastian44/)
