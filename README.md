@@ -73,9 +73,9 @@ const sebastian = {
 ## 🗺️ Expertise Map
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B','primaryTextColor':'#000','primaryBorderColor':'#C92A2A','lineColor':'#495057','secondaryColor':'#4ECDC4','tertiaryColor':'#FFE66D','fontSize':'16px','fontFamily':'Aldrich', sans-serif;}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'16px','fontFamily':'Arial, sans-serif'}}}%%
 mindmap
-  root((Sebastian<br/>Developer))
+  root((Tech<br/>Stack))
     Full Stack Development
       Frontend
       Backend
