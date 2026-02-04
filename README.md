@@ -105,7 +105,7 @@ mindmap
       'secondaryColor': '#e1f5fe',
       'tertiaryColor': '#f3e5f5',
       'quaternaryColor': '#e8f5e9',
-      'fontSize': '15px',
+      'fontSize': '13px',
       'fontFamily': 'Comic Sans MS, cursive'
     }
   }}%%
