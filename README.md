@@ -73,25 +73,42 @@ const sebastian = {
 ## 🗺️ Expertise Map
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667EEA','primaryTextColor':'#FFF','primaryBorderColor':'#5A67D8','lineColor':'#4299E1','secondaryColor':'#48BB78','tertiaryColor':'#ED8936','quaternaryColor':'#9F7AEA','fontSize':'14px','fontFamily':'Arial'}}}%%
 mindmap
-  root((Areas))
+  root((fa:fa-globe Areas))
     Full Stack
+      ::icon(fa fa-code)
       Frontend
       Backend
       Databases
     Cybersecurity
+      ::icon(fa fa-shield-halved)
       Pentesting
       Malware Analysis
       Web Security
     Data Science AI
+      ::icon(fa fa-brain)
       Machine Learning
       Data Analysis
       Neural Networks
     DevOps Cloud
+      ::icon(fa fa-cloud)
       Docker
       AWS
       CI CD
+  %%{init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#fff4dd',
+      'primaryTextColor': '#2d3436',
+      'primaryBorderColor': '#2d3436',
+      'lineColor': '#636e72',
+      'secondaryColor': '#e1f5fe',
+      'tertiaryColor': '#f3e5f5',
+      'quaternaryColor': '#e8f5e9',
+      'fontSize': '15px',
+      'fontFamily': 'Comic Sans MS, cursive'
+    }
+  }}%%
 ```
 
 
