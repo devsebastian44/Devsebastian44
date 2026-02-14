@@ -48,25 +48,12 @@ const sebastian = {
 
 ## 🎯 What I'm Up To
 
-### 💻 Programming & Development
-- 🌱 Building scalable web applications
-- 🚀 Exploring modern frameworks & tools
-- 🎨 Creating beautiful user interfaces
-- ⚡ Optimizing performance & architecture
-
-
-### 🔒 Cybersecurity
-- 🛡️ Ethical Hacking & Pentesting
-- 🔍 Vulnerability Analysis
-- 🕵️ Malware Research
-- 🔐 Web Application Security
-
-
-### 🧠 Data Science & AI
-- 📊 Learning Data Analysis & Visualization
-- 🤖 Exploring Machine Learning Algorithms
-- 🧬 Studying Neural Networks & Deep Learning
-- 📈 Working with Pandas, Matplotlib, and Seaborn
+| 💻 Programming & Development | 🔒 Cybersecurity | 🧠 Data Science & AI |
+|------------------------------|------------------|----------------------|
+| 🌱 Building scalable web applications | 🛡️ Ethical Hacking & Pentesting | 📊 Learning Data Analysis & Visualization |
+| 🚀 Exploring modern frameworks & tools | 🔍 Vulnerability Analysis | 🤖 Exploring Machine Learning Algorithms |
+| 🎨 Creating beautiful user interfaces | 🕵️ Malware Research | 🧬 Studying Neural Networks & Deep Learning |
+| ⚡ Optimizing performance & architecture | 🔐 Web Application Security | 📈 Working with Pandas, Matplotlib, and Seaborn |
 
 ---
 
